@@ -1,5 +1,6 @@
 # Matplotlib---The-Power-of-Plots
 Matplotlib Homework
+<<<<<<< HEAD
 
 Background
 
@@ -25,3 +26,5 @@ Calculated the correlation coefficient and linear regression model betwe
 ### Copyright
 
 Trilogy Education Services © 2020. All Rights Reserved.
+=======
+>>>>>>> c0bbf64ad2985668dd7192183428dbd03919539b
